@@ -52,5 +52,3 @@ var stringifyJSON = function(obj) {
 
   return stringify(obj);
 };
-
-console.log(stringifyJSON({}));
